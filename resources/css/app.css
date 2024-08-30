@@ -1,0 +1,10 @@
+.preview-img-box {
+    width: 200px;
+    position: relative;
+}
+
+.del-img-btn {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
